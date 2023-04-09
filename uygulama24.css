@@ -1,0 +1,152 @@
+/*
+Slayt üzerinde ve diğer sayfalarda çıkan 5 tane butonun kodlarının başlangıç noktası
+*/
+#dugmegrup a{
+
+    color: white;
+
+}
+
+
+#dugmegrup a:hover{
+
+    background-color: #bfe300;
+    color: black;
+
+
+}
+
+/*
+Slayt üzerinde ve diğer sayfalarda çıkan 5 tane butonun kodlarının bitiş noktası
+*/
+
+
+
+/*
+Id'si "kucult" olan butona ait kodların başlangıç noktası
+*/
+#kucult{
+    background-color: #000;
+    color: #fff;
+}
+
+#kucult:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+/*
+Id'si "kucult" olan butona ait kodların bitiş noktası
+*/
+
+
+
+/*
+Slayt üzerinde ve diğer ekranlardaki kapak fotoğraflarında yer alan ve ekran medium ve öncesi genişliklerde ortaya
+çıkan beyaz menüyle ilgili kodların başlangıç noktası
+*/
+.dropdown-menu {
+
+    background-color: black;
+    color: white;
+
+}
+
+
+.dropdown-menu a{
+
+    background-color: black;
+    color: white;
+
+}
+
+
+.dropdown-menu a:hover{
+    background-color: #bfe300;
+   color: black;
+
+}
+
+/*
+Slayt üzerinde ve diğer ekranlardaki kapak fotoğraflarında yer alan ve ekran medium ve öncesi genişliklerde ortaya
+çıkan beyaz menüyle ilgili kodların bitiş noktası
+*/
+
+/*
+Arkaplanların Kodları başlangıç noktası
+*/
+.arkaplan1{
+    background: url(Resimler/şerit3.png);
+}
+
+.arkaplan2{
+    background-color:  #f6fafe;
+}
+
+.arkaplan3{
+    background: url(Resimler/video.jpg);
+}   
+
+/*
+Arkaplanların Kodları bitiş noktası
+*/
+
+
+/*
+Id'si "degistir" olan butona ait kodların başlangıç noktası
+*/
+#degistir{
+    background-color: black;
+    color: white;
+}
+
+#degistir:hover{
+    background-color: white;
+    color: black;
+}
+/*
+Id'si "degistir" olan butona ait kodların başlangıç noktası
+*/
+
+/*
+list-group'ta yer alan kutuların kodlarının başlangıç noktası
+*/
+#madde1:hover{
+background-color: #bfe300;
+color: white;
+
+}
+
+
+
+#madde2:hover{
+    background-color: #bfe300;
+    color: white;
+}
+
+    
+#madde3:hover{
+      background-color: #bfe300;
+      color: white;
+ }
+
+        
+#madde4:hover{
+
+    background-color: #bfe300; 
+    color: white;
+  }
+/*
+list-group'ta yer alan kutuların kodlarının bitiş noktası
+*/  
+ 
+
+     
+            
+
+
+
+
+
+
+
